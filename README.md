@@ -1,4 +1,4 @@
-# This is all of my progress while learning Open CV2
+# Learning Open CV2
 
 ## September 15th at 8:30 PM
 First tutorial done. 
@@ -9,3 +9,12 @@ Learned the basics of importing images and displaying them
 Second tutorial done
 
 Learned how to slice and replace certain sections of images, and how to print the full array or parts of the array.
+
+
+
+
+# Playing with Open CV2
+
+## September 15th at 12:00 PM
+
+I started a new fun project where I encode secret messages into images. I haven't gotten far yet, but I am making good progress. The hope is to take the message, and multiply it by a really big number, then encode that number into the picture as single pixels, which will be spaced pretty far apart. I'll update this on Saturday, maybe.
