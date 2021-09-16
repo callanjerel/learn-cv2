@@ -21,6 +21,6 @@ Learned how to slice and replace certain sections of images, and how to print th
 
 I started a new fun project where I encode secret messages into images. I haven't gotten far yet, but I am making good progress. The hope is to take the message, and multiply it by a really big number, then encode that number into the picture as single pixels, which will be spaced pretty far apart. I'll update this on Saturday, maybe.
 
-### September 16th at 4:45
+### September 16th at 4:45 PM
 
 I made a lot of progress, now I have the encoder all set up, all I need to do is put the encoded pixels into the image of my choice, and I'll be good.
