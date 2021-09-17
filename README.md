@@ -24,3 +24,7 @@ I started a new fun project where I encode secret messages into images. I haven'
 ### September 16th at 4:45 PM
 
 I made a lot of progress, now I have the encoder all set up, all I need to do is put the encoded pixels into the image of my choice, and I'll be good.
+
+### September 16th at 10:00 PM
+
+I have gotten as far as I reasonably can so far, but I ran into a problem changing the color of the pixels to encode the message. I already have the rgb values and where they should be placed, I just can't place them. I'll work on it more tomorrow probably.
