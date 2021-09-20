@@ -10,6 +10,9 @@ Second tutorial done
 
 Learned how to slice and replace certain sections of images, and how to print the full array or parts of the array.
 
+## September 19th at 10:00PM
+
+Learned how to take frames from webcams and videos and display them. Also learned some useful stuff about numpy and just got used to CV2
 
 
 
